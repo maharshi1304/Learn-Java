@@ -12,13 +12,12 @@
 - 🌱 Currently learning more about Blockchain.
 - 🔭 Working as Android developer.
 - 👯 I’m looking to make more friends.
-- 💬 Ask about Android Development / Java / C# / MySQL .
+- 💬 Ask about Android Development / Java / C / MySQL .
 
 
 
 ## Technology Stack
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
+
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)]
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)]
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)]
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)]
