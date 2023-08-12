@@ -10,9 +10,9 @@
 - 🌱 Learning Something New Everyday...
 - 🔭 Highly interested in Cloud Computing. 
 - 🌱 Currently learning more about Blockchain.
-- 🔭 Working as Android developer.
+- 🔭 Working as Software developer.
 - 👯 I’m looking to make more friends.
-- 💬 Ask about Android Development / Java / C / MySQL .
+- 💬 Ask about Software Development / Java / C / PHP / MySQL / CSS / HTML / MongoDb .
 
 
 
